@@ -1,0 +1,18 @@
+/************************************************************/
+/*          estilo para styledtext.html                     */
+/*          autora: Pilar González                          */
+/*          version: 1.0                                    */
+/*          comentario: practicando css externo             */
+/************************************************************/
+
+/* selectores de etiqueta */
+body {background-color:black;
+    color: white;}
+h2 {color:salmon;}
+/* selector de id, único */
+#encabezadop1 {text-align: right;}
+/* selector de class, colectivo */
+.centrado {text-align:center;}
+/* selector contextual, añade contexto, más de un selector separados
+ con espacios */
+.centrado b {color:red;}
